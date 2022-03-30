@@ -7,8 +7,8 @@ import (
 	"sync"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
 	"github.com/jroimartin/gocui"
+	log "github.com/sirupsen/logrus"
 
 	. "github.com/davidlazar/vuvuzela"
 	. "github.com/davidlazar/vuvuzela/internal"
